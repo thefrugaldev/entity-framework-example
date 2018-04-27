@@ -1,2 +1,2 @@
 # entityFrameworkExample
-Repository for Code Louisville Entity Framework Tutorial
+Repository for Entity Framework Tutorial while mentoring Code Louisville.
