@@ -1,2 +1,4 @@
 # entityFrameworkExample
-Repository for Entity Framework Tutorial while mentoring Code Louisville.
+## Mentor repo for Code Louisville Entity Framework Tutorial
+
+Open project in Visual Studio and run solution
